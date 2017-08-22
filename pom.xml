@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.springframework</groupId>
-	<artifactId>gs-consuming-rest</artifactId>
+	<artifactId>stocktwits-extract</artifactId>
 	<version>0.1.0</version>
 
 	<parent>
