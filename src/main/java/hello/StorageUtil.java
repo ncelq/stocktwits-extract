@@ -1,8 +1,5 @@
 package hello;
 
-import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.is;
-
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -12,11 +9,11 @@ import java.util.Arrays;
 
 import com.google.auth.oauth2.ServiceAccountCredentials;
 import com.google.cloud.storage.Acl;
+import com.google.cloud.storage.Acl.Role;
+import com.google.cloud.storage.Acl.User;
 import com.google.cloud.storage.BlobInfo;
 import com.google.cloud.storage.Storage;
 import com.google.cloud.storage.StorageOptions;
-import com.google.cloud.storage.Acl.Role;
-import com.google.cloud.storage.Acl.User;
 
 public class StorageUtil {
 	public final static String BUCKET_NAME = "test-24203634";
