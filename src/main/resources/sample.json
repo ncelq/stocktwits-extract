@@ -1,0 +1,194 @@
+{
+	"response": {
+		"status": 200
+	},
+	"symbol": {
+		"id": 7871,
+		"symbol": "FB",
+		"title": "Facebook",
+		"is_following": false
+	},
+	"cursor": {
+		"more": true,
+		"since": 91138182,
+		"max": 91138048
+	},
+	"messages": [
+		{
+			"id": 91138182,
+			"body": "$AMZN $GE $GS $TLT $VRX $CSCO $GM $AAPL $FB $SPY  - New investment opportunities from Symmetry Options, What are your thoughts? https://www.stockhoot.com/ExtAnalyst.aspx?id=a97fdfc1-8728-4ee8-838b-057c07213235&amp;srid=d2e076e9-43e9-4d16-bc92-07ee25006830&amp;from=StockTwits",
+			"created_at": "2017-08-06T10:35:25Z",
+			"user": {
+				"id": 835250,
+				"username": "Stockhoot",
+				"name": "Stockhoot",
+				"avatar_url": "https://avatars.stocktwits.com/production/835250/thumb-1483503325.png",
+				"avatar_url_ssl": "https://avatars.stocktwits.com/production/835250/thumb-1483503325.png",
+				"join_date": "2016-09-06",
+				"official": false,
+				"identity": "User",
+				"classification": []
+			},
+			"source": {
+				"id": 3360,
+				"title": "StockHoot",
+				"url": "https://stockhoot.com"
+			},
+			"symbols": [
+				{
+					"id": 686,
+					"symbol": "AAPL",
+					"title": "Apple Inc.",
+					"is_following": false
+				},
+				{
+					"id": 864,
+					"symbol": "AMZN",
+					"title": "Amazon.com Inc.",
+					"is_following": false
+				},
+				{
+					"id": 1471,
+					"symbol": "CSCO",
+					"title": "Cisco Systems, Inc.",
+					"is_following": false
+				},
+				{
+					"id": 5481,
+					"symbol": "GE",
+					"title": "General Electric Co.",
+					"is_following": false
+				},
+				{
+					"id": 5593,
+					"symbol": "GS",
+					"title": "Goldman Sachs Group, Inc.",
+					"is_following": false
+				},
+				{
+					"id": 7271,
+					"symbol": "SPY",
+					"title": "SPDR S&P 500",
+					"is_following": false
+				},
+				{
+					"id": 7428,
+					"symbol": "TLT",
+					"title": "iShares 20+ Year Treasury Bond ETF",
+					"is_following": false
+				},
+				{
+					"id": 7673,
+					"symbol": "VRX",
+					"title": "Valeant Pharmaceuticals International, Inc.",
+					"is_following": false
+				},
+				{
+					"id": 7871,
+					"symbol": "FB",
+					"title": "Facebook",
+					"is_following": false
+				},
+				{
+					"id": 9358,
+					"symbol": "GM",
+					"title": "General Motors Company",
+					"is_following": false
+				}
+			],
+			"links": [
+				{
+					"title": "StockHoot - Symmetry Options",
+					"url": "https://www.stockhoot.com/ExtAnalyst.aspx?id=a97fdfc1-8728-4ee8-838b-057c07213235&srid=d2e076e9-43e9-4d16-bc92-07ee25006830&from=StockTwits",
+					"shortened_url": "https://www.stockhoot.com/ExtAnalyst.aspx?id=a97fdfc1-8728-4ee8-838b-057c07213235&srid=d2e076e9-43e9-4d16-bc92-07ee25006830&from=StockTwits",
+					"shortened_expanded_url": "stockhoot.com/ExtAnalyst.as...",
+					"description": "Best Stock Recommendations, Best Investment Ideas, Best Analysts in the stock market, Free and Paid Subscriptions",
+					"image": "https://www.stockhoot.com/images/defaultprofile.png",
+					"created_at": "2017-08-06T10:35:14Z",
+					"video_url": null,
+					"source": {
+						"name": "Stockhoot",
+						"website": "https://www.stockhoot.com"
+					}
+				}
+			],
+			"reshares": {
+				"reshared_count": 0,
+				"user_ids": []
+			},
+			"mentioned_users": [],
+			"entities": {
+				"sentiment": null
+			}
+		},
+		{
+			"id": 91138048,
+			"body": "$GOOG $NFLX $AAPL $GOOG $FB Take these away &amp; people wouldn&#39;t last 2 days. We have become addicted to these companies including $SBUX.",
+			"created_at": "2017-08-06T10:11:02Z",
+			"user": {
+				"id": 318665,
+				"username": "doug5007",
+				"name": "Doug",
+				"avatar_url": "https://avatars.stocktwits.com/production/318665/thumb-1407616988.png",
+				"avatar_url_ssl": "https://avatars.stocktwits.com/production/318665/thumb-1407616988.png",
+				"join_date": "2014-02-22",
+				"official": false,
+				"identity": "User",
+				"classification": []
+			},
+			"source": {
+				"id": 2095,
+				"title": "StockTwits For Android ",
+				"url": "http://www.stocktwits.com/mobile"
+			},
+			"symbols": [
+				{
+					"id": 686,
+					"symbol": "AAPL",
+					"title": "Apple Inc.",
+					"is_following": false
+				},
+				{
+					"id": 2044,
+					"symbol": "GOOG",
+					"title": "Alphabet Inc. Class C",
+					"is_following": false
+				},
+				{
+					"id": 2839,
+					"symbol": "NFLX",
+					"title": "Netflix, Inc.",
+					"is_following": false
+				},
+				{
+					"id": 3465,
+					"symbol": "SBUX",
+					"title": "Starbucks Corporation",
+					"is_following": false
+				},
+				{
+					"id": 7871,
+					"symbol": "FB",
+					"title": "Facebook",
+					"is_following": false
+				}
+			],
+			"conversation": {
+				"parent_message_id": 91138048,
+				"in_reply_to_message_id": null,
+				"parent": true,
+				"replies": 1
+			},
+			"reshares": {
+				"reshared_count": 0,
+				"user_ids": []
+			},
+			"mentioned_users": [],
+			"entities": {
+				"sentiment": {
+					"basic": "Bullish"
+				}
+			}
+		}
+	]
+}
